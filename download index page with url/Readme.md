@@ -1,12 +1,12 @@
-#download 
+# download 
 
-#installation
+# installation
 git clone
 npm install 
 node download.js
 
-#description
+# description
 It allow us to download and create two file one with url of the site and other with data
 
-#Run 
+# Run 
 node download.js "url"
